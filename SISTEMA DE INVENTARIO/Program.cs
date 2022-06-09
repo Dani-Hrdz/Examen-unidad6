@@ -23,7 +23,7 @@ namespace SISTEMA_DE_INVENTARIO
             do
             {
                 Console.Clear();
-                Console.WriteLine("\n---ARCHIVO BINARIO EMPLEADOS---");
+                Console.WriteLine("\n---SISTEMA DE INVENTARIO AMAZON---");
                 Console.WriteLine("1.- Creacion de un Archivo");
                 Console.WriteLine("2.- Lectura de un Archivo");
                 Console.WriteLine("3.- Salida del Programa");
