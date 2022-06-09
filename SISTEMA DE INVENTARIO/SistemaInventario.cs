@@ -35,7 +35,7 @@ namespace SISTEMA_DE_INVENTARIO
 
                     sw.Write(nombre);
                     sw.Write(descripcion);
-                    sw.Write(precio);
+                    sw.Write("{0:C}",precio);
                     sw.Write(stok);
                     Console.Write("\n\nDeseas almacenar otro registro (s/n)? ");
 
@@ -54,6 +54,17 @@ namespace SISTEMA_DE_INVENTARIO
                 Console.Write("\nPresione enter para terminar la Escritura de Datos y regresar al Menu.");
                 Console.ReadKey();
             }
+       }
+        public void LecturaArchivo()
+        {
+            sr = new StreamReader("Productos.txt");
+            string line;
+            while((line=sr.ReadLine()) !=null)
+            {
+                Console.WriteLine(line);
+            }
+            sr.Close();
+            Console.ReadKey();
         }
        
     }

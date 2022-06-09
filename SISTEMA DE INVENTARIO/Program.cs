@@ -12,7 +12,7 @@ namespace SISTEMA_DE_INVENTARIO
         static void Main(string[] args)
         {
             //declaracion de variables auxiliares
-            string Arch = null;
+            
             int option;
             
 
@@ -34,8 +34,12 @@ namespace SISTEMA_DE_INVENTARIO
                 {
                     case 1:
                         //bloque de escritura
-                        Si.crearArchivo();
+                            Si.crearArchivo();
 
+                        break;
+                    case 2:
+                        Console.Clear();
+                        Si.LecturaArchivo();
                         break;
                     case 3:
                         Console.Clear();
