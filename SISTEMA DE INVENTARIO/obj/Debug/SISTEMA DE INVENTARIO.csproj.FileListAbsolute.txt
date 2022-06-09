@@ -1,0 +1,7 @@
+C:\Users\UsuarioX\Documents\GitHub\Examen-unidad6\SISTEMA DE INVENTARIO\bin\Debug\SISTEMA DE INVENTARIO.exe.config
+C:\Users\UsuarioX\Documents\GitHub\Examen-unidad6\SISTEMA DE INVENTARIO\bin\Debug\SISTEMA DE INVENTARIO.exe
+C:\Users\UsuarioX\Documents\GitHub\Examen-unidad6\SISTEMA DE INVENTARIO\bin\Debug\SISTEMA DE INVENTARIO.pdb
+C:\Users\UsuarioX\Documents\GitHub\Examen-unidad6\SISTEMA DE INVENTARIO\obj\Debug\SISTEMA DE INVENTARIO.csproj.AssemblyReference.cache
+C:\Users\UsuarioX\Documents\GitHub\Examen-unidad6\SISTEMA DE INVENTARIO\obj\Debug\SISTEMA DE INVENTARIO.csproj.CoreCompileInputs.cache
+C:\Users\UsuarioX\Documents\GitHub\Examen-unidad6\SISTEMA DE INVENTARIO\obj\Debug\SISTEMA DE INVENTARIO.exe
+C:\Users\UsuarioX\Documents\GitHub\Examen-unidad6\SISTEMA DE INVENTARIO\obj\Debug\SISTEMA DE INVENTARIO.pdb
